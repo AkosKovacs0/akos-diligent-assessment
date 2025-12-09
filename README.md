@@ -1,6 +1,6 @@
 # Ticket API Backend - Candidate Assessment
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new/AkosKovacs0/akos-diligent-assessment)
 
 A TypeScript backend API with pagination for managing support tickets. This project demonstrates REST API design, database integration, and comprehensive testing with Vitest.
 
